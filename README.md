@@ -15,11 +15,12 @@ Features:
 1.Default Prompt display
 2.Customised Prompt
 3.Environmental variables
-4.External command execution
-5.Internal command execution
-6.Special variables (echo family)
-7.Build in commands execution
-8.Signal handling
+4.get command
+5.External command execution
+6.Internal command execution
+7.Special variables (echo family)
+8.Build in commands execution
+9.Signal handling
     1.SIGINT (ctrl+c)
     2.SIGTSTP (ctrl+z)
 
