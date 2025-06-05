@@ -23,4 +23,10 @@ Features:
     1.SIGINT (ctrl+c)
     2.SIGTSTP (ctrl+z)
 
+Documentation:
+Built_in_commands.txt – List of supported built-in/internal commands
+external_commands.txt – List of supported external Linux commands
+
+Note: The supported internal (built-in) and external commands for this shell are documented in the internal_commands.txt and external_commands.txt files included in the repository.
+
   
